@@ -1,5 +1,84 @@
+body {
+    background-color: whitesmoke;
+    color: black;
+    font-size: large;
+    text-align: center;
+}
+/* top section of the page */
+header {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1%;
+    background-color: black;
+}
 
+.logo {
+    margin-right: auto;
+    padding-top: 2%;
+    font-size: large;
+    font-family: cursive;
+    color: white;
+}
 
-
+.navbar {
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    height: 4rem;
+    width: 30rem;
+    align-items: center;
+    font-size: large;
     
+    
+}
+/* this is the hero section */
+.hero {
+    padding: 25%;
+    background-image: url(../assets/image/selfie-bgr1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 35%;
+}
+/* this is the middle section aka the about me */
+#about {
+    background-color: white;
+    font-family: monospace;
+    font-size: large;
+    text-align: center;
+    margin: 10%;
+    padding: 0%;
+    border: solid;
+    
+}
+
+.hobbies, .ul {
+    font-size: large;
+    font-family: cursive;
+    margin: 15%;
+}
+/* this is the bottom or footer section */
+#container {
+    margin:
+    
+    
+}
+
+h3 {
+    font-size: larger;
+    margin: 2%;
+    
+}
+
+#projects, h4 {
+text-align: left;
+
+}
+
+
+#contact {
+    text-align: center;
+    margin: 10%;
+    font-family: monospace;
+}
+
 
