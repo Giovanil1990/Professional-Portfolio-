@@ -15,10 +15,10 @@ My webpage is layout responsive
 n/a
 
 ## link
-file:///C:/Users/giova/bootcamp/homework/Professional-Portfolio-/index.html#contact
+https://giovanil1990.github.io/Professional-Portfolio-/
 
 ## Screenshot
-<img src ="![alt text](<portfolio screenshot-1.PNG>)"  width="250" height="250">
+<img src ="https://giovanil1990.github.io/Professional-Portfolio-/"  width="250" height="250">
 
 ## License 
 MIT License
