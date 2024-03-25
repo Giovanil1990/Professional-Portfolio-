@@ -18,6 +18,7 @@ header {
     font-size: large;
     font-family: cursive;
     color: white;
+    
 }
 
 .navbar {
@@ -37,7 +38,7 @@ header {
     background-image: url(../assets/image/selfie-bgr1.png);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 35%;
+    background-size: 30%;
 }
 /* this is the middle section aka the about me */
 #about {
@@ -57,10 +58,12 @@ header {
     margin: 15%;
 }
 /* this is the bottom or footer section */
-#container {
-    margin:
-    
-    
+#projects {
+    border: solid;
+    display: flex;
+    background-color: white;
+    justify-content: space-evenly;
+    margin: 5%;
 }
 
 h3 {
@@ -69,16 +72,12 @@ h3 {
     
 }
 
-#projects, h4 {
-text-align: left;
-
-}
-
-
 #contact {
     text-align: center;
     margin: 10%;
     font-family: monospace;
 }
 
-
+@media (max-width: 600px) {
+    
+}
