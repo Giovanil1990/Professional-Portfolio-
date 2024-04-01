@@ -18,7 +18,7 @@ n/a
 https://giovanil1990.github.io/Professional-Portfolio-/
 
 ## Screenshot
-<img src ="/Professional-Portfolio-/assets/image/Horiseon Snippet.png"  width="250" height="250">
+<img src ="https://giovanil1990.github.io/Professional-Portfolio-/"  width="250" height="250">
 
 ## License 
 MIT License
