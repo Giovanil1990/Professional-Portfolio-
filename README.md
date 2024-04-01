@@ -4,12 +4,12 @@
 Professional portfolio for future employers. 
 
 It meets all of the basic acceptance criteria:
-Name
-Photo
-Links that take you to specific part of the page
-My first application along with my pre work study guide application and 2 other place holders of two other websites I personally enjoy
-My first application is bigger than the rest
-My webpage is layout responsive
+Name.
+Photo.
+Links that take you to specific part of the page.
+My first application along with my pre work study guide application and 2 other place holders of two other websites I personally enjoy.
+My first application is bigger than the rest.
+My webpage is layout responsive.
 
 ## installations
 n/a
@@ -18,7 +18,11 @@ n/a
 https://giovanil1990.github.io/Professional-Portfolio-/
 
 ## Screenshot
+<<<<<<< HEAD
 <img src ="https://giovanil1990.github.io/Professional-Portfolio-/"  width="250" height="250">
+=======
+<img src ="https://giovanil1990.github.io/Professional-Portfolio-/" width="250" height="250">
+>>>>>>> 44ee366696dea52d8dc2ca2e4a19a6dd1ad12927
 
 ## License 
 MIT License
