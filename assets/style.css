@@ -60,7 +60,7 @@ header {
 /* this is the bottom or footer section */
 #projects {
     border: solid;
-    display: flex;
+    display: block;
     background-color: white;
     justify-content: space-evenly;
     margin: 5%;
