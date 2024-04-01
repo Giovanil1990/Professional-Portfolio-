@@ -18,7 +18,7 @@ n/a
 https://giovanil1990.github.io/Professional-Portfolio-/
 
 ## Screenshot
-<img src ="https://giovanil1990.github.io/Professional-Portfolio-/"  width="250" height="250">
+<img src ="https://giovanil1990.github.io/Professional-Portfolio-/" alt="website screenshot" width="250" height="250">
 
 ## License 
 MIT License
